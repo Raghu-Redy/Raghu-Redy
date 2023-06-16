@@ -1,3 +1,5 @@
+![Logo](https://github.com/Raghu-Redy/Raghu-Kanukula/raw/main/banner.png)
+
 <h1 align="center">Hi 👋, I'm Raghu Kanukula</h1>
 <h3 align="center">Passionate Data Scientist and Software Developer | Transforming Data into Insights for Impactful Solutions</h3>
 
